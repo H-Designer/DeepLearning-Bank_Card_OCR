@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ac50406-9b92-4616-bf20-6970684ba6f8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$captcha_train.coverage" NAME="captcha_train Coverage Results" MODIFIED="1559781942446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/captcha_recognize-master" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$demo_android__1_.coverage" NAME="demo_android (1) Coverage Results" MODIFIED="1559955219859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sss" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$test.coverage" NAME="test Coverage Results" MODIFIED="1561268516145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1565256118673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$change_img.coverage" NAME="change_img Coverage Results" MODIFIED="1559786883240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/char_train_verification-master" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$captcha_multi_gpu_train.coverage" NAME="captcha_multi_gpu_train Coverage Results" MODIFIED="1559782205795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/captcha_recognize-master" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$demo.coverage" NAME="demo Coverage Results" MODIFIED="1559963820591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1559783786811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/CNN_keras-master/core" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$python_getpic.coverage" NAME="python_getpic Coverage Results" MODIFIED="1559740600161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/identfying_code_recognize-master" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$captcha_records.coverage" NAME="captcha_records Coverage Results" MODIFIED="1559743439407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/captcha_recognize-master" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$utils.coverage" NAME="utils Coverage Results" MODIFIED="1559783718197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/CNN_keras-master/core" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$gen_tfrecord.coverage" NAME="gen_tfrecord Coverage Results" MODIFIED="1559787439140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/char_train_verification-master" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$converttfrecord.coverage" NAME="convert——tfrecord Coverage Results" MODIFIED="1559781732330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/captcha_recognize-master" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$train.coverage" NAME="train Coverage Results" MODIFIED="1559783607391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/CNN_keras-master/core" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1559909695649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$generate_anchors.coverage" NAME="generate_anchors Coverage Results" MODIFIED="1559647056953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/lib/layer_utils" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$card_distinguish_demo.coverage" NAME="card_distinguish_demo Coverage Results" MODIFIED="1559985938658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/卡号识别" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$Card_demo.coverage" NAME="Card_demo Coverage Results" MODIFIED="1559964039957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$One_Card_Distinguish.coverage" NAME="One_Card_Distinguish Coverage Results" MODIFIED="1559987186228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/用户图形界面/gui" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1559788616008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/char_train_verification-master" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$tools.coverage" NAME="tools Coverage Results" MODIFIED="1559877917187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$C.coverage" NAME="C识别码 Coverage Results" MODIFIED="1559995532839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$gen_captcha.coverage" NAME="gen_captcha Coverage Results" MODIFIED="1559739663484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$demo_android.coverage" NAME="demo_android Coverage Results" MODIFIED="1559956010839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/用户图形界面" />
+    <SUITE FILE_PATH="coverage/Bank_Card_OCR$captcha_gen_default.coverage" NAME="captcha_gen_default Coverage Results" MODIFIED="1559742621239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/test/captcha_recognize-master" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/详细环节设计/第一(银行卡号的定位)/Faster-RCNN-TensorFlow/lib/nets/vgg16.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/详细环节设计/第三(单字符识别)/单字符的训练/C生成tfrecord文件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="369">
+              <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>正在进行图片定位</find>
+      <find>print</find>
+      <find>224</find>
+      <find>60</find>
+      <find>vgg16</find>
+      <find>zip</find>
+      <find>ode</find>
+      <find>test_dir</find>
+      <find>train_dir</find>
+      <find>filename_train</find>
+      <find>filename_test</find>
+      <find>em</find>
+      <find>position</find>
+      <find>test_result/cut/00001/</find>
+      <find>Loaded network</find>
+      <find>pr</find>
+      <find>read</find>
+      <find>fac</find>
+      <find>cv2.imread</find>
+      <find>test_result</find>
+      <find>demo</find>
+      <find>/demo</find>
+      <find>models</find>
+      <find>程序最多只能占用指定gpu50%的显存</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/demo/lib/nets2/nets_factory.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/inception.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/inception_v1.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/inception_v2.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/inception_v3.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/inception_v4.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/vgg_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/resnet_v2_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/resnet_v2.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/resnet_v1_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/resnet_v1.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/overfeat_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/nets_factory_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/inception_v4_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/inception_v4.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/inception_v3_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/inception_v3.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/inception_v2_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/inception_v2.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/inception_v1_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/inception_v1.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/inception_resnet_v2_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/inception.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets2/alexnet_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/resnet_v1.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/resnet_v2.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/vgg_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/resnet_v2_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/resnet_v1_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/pix2pix_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/overfeat_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/nets_factory_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/nets_factory.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/mobilenet_v1_train.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/mobilenet_v1_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/mobilenet_v1_eval.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/inception_v4_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/inception_v3_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/inception_v2_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/inception_v1_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/inception_resnet_v2_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/dcgan_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/cyclegan_test.py" />
+        <option value="$PROJECT_DIR$/demo/lib/nets/alexnet_test.py" />
+        <option value="$PROJECT_DIR$/卡号识别/card_distinguish_demo.py" />
+        <option value="$PROJECT_DIR$/demo/lib/layer_utils/generate_anchors.py" />
+        <option value="$PROJECT_DIR$/demo/lib/lib/layer_utils/generate_anchors.py" />
+        <option value="$PROJECT_DIR$/用户图形界面/gui/One_Card_Distinguish.py" />
+        <option value="$PROJECT_DIR$/demo/C识别码.py" />
+        <option value="$PROJECT_DIR$/demo/test.py" />
+        <option value="$PROJECT_DIR$/demo/demo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="250" />
+    <option name="y" value="-15" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Bank_Card_OCR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_Card_OCR" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Bank_Card_OCR" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Bank_Card_OCR" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\application\pycharm\workspace\Python\Bank_Card_OCR\详细环节设计\第三(单字符识别)\单字符识别" />
+      <recent name="D:\application\pycharm\workspace\Python\Bank_Card_OCR\详细环节设计\第三(单字符识别)" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\application\pycharm\workspace\Python\Bank_Card_OCR\详细环节设计\第三(单字符识别)\单字符的训练" />
+      <recent name="D:\application\pycharm\workspace\Python\Bank_Card_OCR\详细环节设计\第一(银行卡号的定位)" />
+      <recent name="C:\workspace\Python\Bank_Card_OCR\demo" />
+      <recent name="C:\workspace\Python\Bank_Card_OCR\demo\test_images" />
+      <recent name="C:\workspace\Python\opencv_tutorial\venv\Lib\site-packages\win32\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.demo (1)">
+    <configuration name="C识别码" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Bank_Card_OCR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/C识别码.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="One_Card_Distinguish" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Bank_Card_OCR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/用户图形界面/gui" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/用户图形界面/gui/One_Card_Distinguish.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="card_distinguish_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Bank_Card_OCR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/卡号识别" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/卡号识别/card_distinguish_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Bank_Card_OCR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Bank_Card_OCR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\application\pycharm\workspace\Python\Bank_Card_OCR\demo\转换通道.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo (1)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.C识别码" />
+        <item itemvalue="Python.One_Card_Distinguish" />
+        <item itemvalue="Python.card_distinguish_demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ac50406-9b92-4616-bf20-6970684ba6f8" name="Default Changelist" comment="" />
+      <created>1559636070497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559636070497</updated>
+      <workItem from="1559636072976" duration="278000" />
+      <workItem from="1559636618668" duration="5997000" />
+      <workItem from="1559646887051" duration="4138000" />
+      <workItem from="1559652447253" duration="5282000" />
+      <workItem from="1559703375581" duration="2144000" />
+      <workItem from="1559705570227" duration="2633000" />
+      <workItem from="1559716688444" duration="2652000" />
+      <workItem from="1559719396167" duration="863000" />
+      <workItem from="1559720309389" duration="529000" />
+      <workItem from="1559720888615" duration="7573000" />
+      <workItem from="1559738723024" duration="4866000" />
+      <workItem from="1559780845920" duration="3856000" />
+      <workItem from="1559785699276" duration="3033000" />
+      <workItem from="1559788999643" duration="2947000" />
+      <workItem from="1559805452632" duration="3350000" />
+      <workItem from="1559809715800" duration="3287000" />
+      <workItem from="1559865930613" duration="14615000" />
+      <workItem from="1559893689280" duration="1489000" />
+      <workItem from="1559906754369" duration="2582000" />
+      <workItem from="1559952823867" duration="6567000" />
+      <workItem from="1559959405712" duration="5173000" />
+      <workItem from="1559966039364" duration="5662000" />
+      <workItem from="1559980551955" duration="2631000" />
+      <workItem from="1559983266559" duration="4110000" />
+      <workItem from="1559987610405" duration="3050000" />
+      <workItem from="1559993737439" duration="2440000" />
+      <workItem from="1560234909435" duration="5110000" />
+      <workItem from="1560241567171" duration="26000" />
+      <workItem from="1560384341097" duration="4553000" />
+      <workItem from="1560390681571" duration="2763000" />
+      <workItem from="1560423229352" duration="614000" />
+      <workItem from="1560679119539" duration="277000" />
+      <workItem from="1560760842850" duration="1323000" />
+      <workItem from="1560924865572" duration="1703000" />
+      <workItem from="1561267023840" duration="3144000" />
+      <workItem from="1561365696145" duration="432000" />
+      <workItem from="1561596069623" duration="1589000" />
+      <workItem from="1561970420406" duration="383000" />
+      <workItem from="1565256039164" duration="2300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="125964000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24396783" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.1301273" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013405" side_tool="true" weight="0.35219237" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.21581769" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/inception_v2_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/inception_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/inception_v1_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/inception_v1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/inception_utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/inception_resnet_v2_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/inception_resnet_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/inception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <folding>
+            <element signature="e#741#779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/dcgan_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/dcgan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/cyclegan_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/cyclegan.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/cifarnet.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/alexnet_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/nets/alexnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/卡号定位/card_position_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="33" column="17" selection-start-line="26" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <element signature="e#2#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/test_result/0001.jpg" />
+    <entry file="file://$PROJECT_DIR$/../opencv_tutorial/venv/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58344">
+          <caret line="2657" selection-start-line="2657" selection-end-line="2657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/config/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/用户图形界面/gui/images/2.jpeg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/0065.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_result/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/0001.jpg" />
+    <entry file="file://$PROJECT_DIR$/用户图形界面/gui/images/1.jpeg" />
+    <entry file="file://$PROJECT_DIR$/用户图形界面/gui/images/position/2.jpeg" />
+    <entry file="file://$PROJECT_DIR$/demo/lib/lib/layer_utils/generate_anchors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/lib/layer_utils/generate_anchors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/用户图形界面/gui/One_Card_Distinguish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="585" column="55" selection-start-line="585" selection-start-column="55" selection-end-line="585" selection-end-column="55" />
+          <folding>
+            <element signature="e#23#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/test_images/000008.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/000003.jpg" />
+    <entry file="file://C:/My File/Python/Lib/site-packages/tensorflow/python/ops/variables.py" />
+    <entry file="file://$PROJECT_DIR$/demo/C识别码.py" />
+    <entry file="file://$PROJECT_DIR$/demo/test_result/000000.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_result/000001.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_result/000004.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/000004.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/image(2).jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/image(3).jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/image(4).jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/image(5).jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/image(6).jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/image(7).jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_images/image(1).jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/转换通道.py" />
+    <entry file="file://$PROJECT_DIR$/demo/test_result/image(19).jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/test_result/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/卡号识别/card_distinguish_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+          <folding>
+            <element signature="e#404#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/详细环节设计/第一(银行卡号的定位)/Faster-RCNN-TensorFlow/lib/nets/vgg16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/详细环节设计/第三(单字符识别)/单字符的训练/C生成tfrecord文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
